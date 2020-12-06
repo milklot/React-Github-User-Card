@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+}
+
+.cardD {
+  background-color: teal;
+  padding: 5%;
+}
+
+.cardD * {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:ghostwhite;
+}
+
+.styledCard {
+}
