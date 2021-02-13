@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  padding-top: 5%;
+  background-color: gainsboro;
+}
+
+.searchForm {
+  margin: 0 auto;
+  width: 400px; 
+}
+
+.search_btn {
+  margin: 4%;
+  width: 150px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-right: 20px;
+}
+
+.name {
+  font-size: 1.7rem;
+  color:whitesmoke;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 3px;
+  color:whitesmoke;
+}
+
+.username {
+  font-size: 2.5rem;
+  padding: 2%;
+  margin: 3px 0 10px;
+  color:whitesmoke;
+}
+
+.user_card {
+  margin: 0 auto;
+  background-color:black;
+  border:2px solid black;
+  width: 400px;
+}
