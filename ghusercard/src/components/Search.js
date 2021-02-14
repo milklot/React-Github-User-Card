@@ -42,7 +42,7 @@ class Search extends React.Component {
 					value={this.state.username}
 					placeholder="enter username"
 					/>
-					<Button type="submit" className="search_btn" >Submit</Button>
+					<Button type="submit" color="success" className="search_btn" >Submit</Button>
 				</FormGroup>
         	</Form>
 		)

@@ -5,12 +5,17 @@
   flex-direction: column;
   padding: 5%;
   padding-top: 5%;
-  background-color: gainsboro;
+  background-color: slategray;
 }
 
 .searchForm {
+  color:whitesmoke;
   margin: 0 auto;
   width: 400px; 
+}
+
+.App h2 {
+  color:whitesmoke;
 }
 
 .search_btn {
@@ -45,7 +50,7 @@ p {
 
 .user_card {
   margin: 0 auto;
-  background-color:black;
-  border:2px solid black;
+  background-color:rgb(34, 34, 34)  ;
+  border:1px solid black;
   width: 400px;
 }
